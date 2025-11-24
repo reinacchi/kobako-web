@@ -1,0 +1,27 @@
+seo:
+  title: Kobako
+  description: A fast, secure file transfer tool powered by modern encrypted peer-to-peer technology.
+title: "[Kobako]{.text-primary}"
+description: Share files securely and efficiently with Kobako, a cutting-edge peer-to-peer file transfer application designed for speed and privacy.
+section:
+  title: "[Change]{.text-primary} the way you share files"
+  description: Experience seamless and secure file transfers with Kobako, leveraging modern peer-to-peer technology to keep your data safe and private.
+  images:
+    desktop: /images/kobako.svg
+  features:
+    - title: Send Any File, Anywhere
+      description: Kobako works seeamlessly on local networks or over the internet, allowing you to share files with anyone, anywhere.
+    - title: End-to-End Encryption
+      description: Your files are protected with robust end-to-end encryption, ensuring that only you and your intended recipient can access them.
+    - title: Lightning-Fast Transfers
+      description: Enjoy high-speed file transfers optimized for performance, making large file sharing quick and hassle-free.
+    - title: User-Friendly Interface
+      description: Kobako features an intuitive and easy-to-use interface. Simply drag and drop files to start sharing instantly.
+cta:
+  title: Ready to get started?
+  description: Download Kobako today and experience the future of secure file sharing.
+  links:
+    - label: Download for Windows
+      target: _blank
+      trailingIcon: i-simple-icons-windows
+      to: "https://github.com/reinacchi/kobako-web/releases/download/0.1.0/Kobako_0.1.0_x64-setup.exe"
