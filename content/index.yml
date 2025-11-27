@@ -24,12 +24,12 @@ cta:
     - label: Download for Windows
       target: _blank
       trailingIcon: i-simple-icons-windows
-      to: "https://github.com/reinacchi/kobako-web/releases/download/0.1.0/Kobako_0.1.0_x64-setup.exe"
+      to: "https://github.com/reinacchi/kobako-web/releases/download/0.1.1/Kobako_0.1.1_x64-setup.exe"
     - label: Download for macOS
       target: _blank
       trailingIcon: i-simple-icons-apple
-      to: "https://github.com/reinacchi/kobako-web/releases/download/0.1.0/Kobako_0.1.0_x64.dmg"
+      to: "https://github.com/reinacchi/kobako-web/releases/download/0.1.1/Kobako_0.1.1_x64.dmg"
     - label: Download for Linux
       target: _blank
       trailingIcon: i-simple-icons-linux
-      to: "https://github.com/reinacchi/kobako-web/releases/download/0.1.0/Kobako_0.1.0_amd64.deb"
+      to: "https://github.com/reinacchi/kobako-web/releases/download/0.1.1/Kobako_0.1.1_amd64.deb"
